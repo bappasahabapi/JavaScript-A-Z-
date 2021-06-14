@@ -1,5 +1,5 @@
-#![Uploading variable js.PNG…]()
+#
 
 
-
-basic code with out png and doc file
+basic code with output![Uploading console log js.PNG…]()
+ png and doc file
